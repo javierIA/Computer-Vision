@@ -64,7 +64,7 @@ Si quieres aprender más sobre el control de versiones y el uso de `git` desde l
 
 1. Clona el repositorio, y navega a la carpeta descargada. Esto puede tomar un minuto o dos para clonar debido a los datos de la imagen incluida.
 ```
-git clone https://github.com/udacity/cd0360-Introduction-to-Computer-Vision.git
+git clone https://github.com/javierIA/Computer-Vision.git
 cd0360-Introducción a la Visión Artificial
 ```
 
@@ -81,7 +81,7 @@ cd0360-Introducción a la Visión Artificial
 	activate cv-nd
 	```
 	
-	En este punto tu línea de comandos debería ser algo así: `(cv-nd) <Usuario>:cd0360-Introducción a la Visión Artificial <usuario>$`. El `(cv-nd)` indica que su entorno ha sido activado, y puede proceder a la instalación de más paquetes.
+	En este punto tu línea de comandos debería ser algo así: `(cv-nd) <Usuario>:Computer-Vision <usuario>$`. El `(cv-nd)` indica que su entorno ha sido activado, y puede proceder a la instalación de más paquetes.
 
 3. Instale PyTorch y torchvision; esto debería instalar la última versión de PyTorch.
 	
